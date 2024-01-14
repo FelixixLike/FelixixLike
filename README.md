@@ -8,7 +8,7 @@
 <h4 align="center">
   <b><a href="">Data Analytics</a></b>
   •
-  <a href="https://www.facebook.com/FelixixLG">Facebook</a>
+  <a href="https://www.facebook.com/FelixixLG" target="_blank" >Facebook</a>
 </h3>
 
 ## Introduction
