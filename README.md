@@ -1,4 +1,4 @@
-<h1> Hello Guys! I am Felixix 😁👌</h1>
+<h1 align="center">Hello Guys! I am Felixix 😁👌</h1>
 
 <div align="center">
   <a href="#" ><img  src="/image/perfil.jpg" height="360"></a>
