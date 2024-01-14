@@ -1,7 +1,7 @@
 # Hello Guys! I am Felixix 😁👌
 
 <div align="center">
-  <img src="/image/perfil.jpg" height="360">
+  <a href="#" ><img  src="/image/perfil.jpg" height="360"></a>
 </div>
 
 <h4 align="center">
@@ -15,21 +15,22 @@ Soon to be a data scientist 👌.
 <hr>
 <br>
 
-## Repositorios
+# Repositorios
 Lista de repositorios publicos.
-<br>
-
+<br><hr>
 <!-- Tarjeta 1 -->
  <div>
-    <img src="/image/SN-programa.jpg" alt="Programa Python Sistemas Numéricos" width="250">
-    <h2>SN programa</h2>
-    <p>Programa Sistemas Numéricos en Python.</p>
-    <a href="#">Enlace</a>
+  <a target="_blank" href="https://chat.openai.com/c/36a707f7-7307-47d1-8444-2420cbfa4f30"><img src="/image/SN-programa.jpg" alt="Programa Python Sistemas Numéricos" width="250"></a>
+   
+  ### SN programa 
+  <p>Programa Sistemas Numéricos en Python.</p>
+  
+  <hr>
 </div>
 
   <!-- Tarjeta 2 -->
   <div class="card">
-      <img src="/image/pendiente-contenido.jpg" alt="Sin contenido"  width="250">
+      <a href="#"><img src="/image/pendiente-contenido.jpg" alt="Sin contenido"  width="250"></a>
     <!--
       <h2>Card 2</h2>
       <p>Descripción de la tarjeta 2.</p>
