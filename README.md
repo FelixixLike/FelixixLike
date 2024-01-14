@@ -20,7 +20,7 @@ Lista de repositorios publicos.
 <br><hr>
 <!-- Tarjeta 1 -->
  <div>
-  <a target="_blank" href="https://github.com/FelixixLike/NS-Program"><img src="/image/SN-programa.jpg" alt="Programa Python Sistemas Numéricos" width="250"></a>
+  <a target="_blank" href="https://github.com/FelixixLike/SN-Program"><img src="/image/SN-programa.jpg" alt="Programa Python Sistemas Numéricos" width="250"></a>
    
   ### SN programa 
   <p>Programa Sistemas Numéricos en Python.</p>
