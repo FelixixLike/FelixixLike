@@ -12,24 +12,28 @@
 
 ## Introduction
 Soon to be a data scientist 👌.
-
 <hr>
+<br>
 
-<div>
+## Repositorios
+Lista de repositorios publicos.
+<br>
+
 <!-- Tarjeta 1 -->
-  <div >
-      <img src="/image/SN-programa.jpg" alt="Programa Python Sistemas Numéricos" width="50">
-      <h2>SN programa</h2>
-      <p>Programa Sistemas Numéricos en python.</p>
-      <a href="#">Enlace</a>
-  </div>
+ <div>
+    <img src="/image/SN-programa.jpg" alt="Programa Python Sistemas Numéricos" width="250">
+    <h2>SN programa</h2>
+    <p>Programa Sistemas Numéricos en Python.</p>
+    <a href="#">Enlace</a>
+</div>
+
   <!-- Tarjeta 2 -->
   <div class="card">
-      <img src="/image/pendiente-contenido.jpg" alt="Sin contenido">
+      <img src="/image/pendiente-contenido.jpg" alt="Sin contenido"  width="250">
     <!--
       <h2>Card 2</h2>
       <p>Descripción de la tarjeta 2.</p>
       <a href="#">Enlace</a>
      -->
   </div>
-</div>
+
